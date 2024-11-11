@@ -1,3 +1,5 @@
 video tutorial :- https://learning.oreilly.com/videos/hashicorp-certified-terraform/9780138195366/9780138195366-HCT1_01_01_04/
 
 GitHub link :- https://github.com/daveprowse/tac-course     ---> This has all hands on lessons.
+
+Note :- clone it if you want and use the videos or copy paste the link and check directly in github itself.
